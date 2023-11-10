@@ -8,3 +8,6 @@ Fun with MOS6502-C64-ASM
 
 >$ x64.exe shooter.prg
 
+>shooter.asm is compiled by C64Studio C64Ass assembler - great tool.
+<p>
+Fredrik Roos - info@crazedout.com
